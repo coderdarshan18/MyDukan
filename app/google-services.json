@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "267370799902",
+    "firebase_url": "https://mobileotp-e2fd0.firebaseio.com",
+    "project_id": "mobileotp-e2fd0",
+    "storage_bucket": "mobileotp-e2fd0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267370799902:android:8fdcf0cf850b4ed1f31f0f",
+        "android_client_info": {
+          "package_name": "com.example.mobileotp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267370799902-q4b65g9a510altnl89d0kei0eaiab8lp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx77EY0B7DL7SG8xykFbIwcAtGVeSsfZc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267370799902-q4b65g9a510altnl89d0kei0eaiab8lp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267370799902:android:1dd18e960b2ea9fcf31f0f",
+        "android_client_info": {
+          "package_name": "com.india.mydukan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267370799902-q4b65g9a510altnl89d0kei0eaiab8lp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx77EY0B7DL7SG8xykFbIwcAtGVeSsfZc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267370799902-q4b65g9a510altnl89d0kei0eaiab8lp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
